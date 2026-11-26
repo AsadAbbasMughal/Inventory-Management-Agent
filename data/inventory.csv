@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Category,Quantity,Price,Supplier,Status
+P001,Laptop,Electronics,10,85000.0,Dell,In Stock
+P002,Mouse,Accessories,25,1500.0,Logitech,In Stock
+P003,Keyboard,Accessories,5,3000.0,HP,Low Stock
+P004,Monitor,Electronics,8,35000.0,Samsung,In Stock
+P005,Printer,Office Equipment,6,45000.0,Canon,In Stock
+P006,USB Cable,Accessories,30,800.0,Anker,In Stock
+P007,Headphones,Accessories,2,5000.0,Sony,Low Stock
+P008,Webcam,Electronics,3,7500.0,Logitech,Low Stock
+P009,Chair,Furniture,15,12000.0,IKEA,In Stock
+P010,Desk,Furniture,4,25000.0,IKEA,Low Stock
+P011,Mobile Phone,Electronics,12,65000.0,Samsung,In Stock
+P012,Notebook,Stationery,50,250.0,Oxford,In Stock
+P013,Pen,Stationery,100,100.0,Parker,In Stock
+P014,Router,Networking,6,6500.0,TP-Link,In Stock
+P015,LAN Cable,Networking,20,500.0,D-Link,In Stock

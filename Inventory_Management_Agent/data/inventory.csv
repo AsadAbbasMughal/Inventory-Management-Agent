@@ -1,0 +1,7 @@
+﻿Product_ID,Product_Name,Category,Quantity,Price,Supplier,Status
+P001,Laptop,Electronics,15,85000,Tech Supplier,In Stock
+P002,Mouse,Accessories,5,1200,ABC Traders,Low Stock
+P003,Keyboard,Accessories,0,2500,ABC Traders,Out of Stock
+P004,Monitor,Electronics,12,35000,Tech Supplier,In Stock
+P005,Printer,Electronics,3,45000,Office Supplies,Low Stock
+P006,USB Cable,Accessories,25,500,ABC Traders,In Stock
